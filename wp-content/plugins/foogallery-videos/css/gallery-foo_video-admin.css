@@ -1,0 +1,243 @@
+.foovideo-toolbar{
+
+  border-bottom: 1px solid #e1e1e1;
+
+  padding: 0 16px 10px;
+
+}
+
+.foovideo-searchbox{
+
+  width: 300px;
+
+}
+
+.foovideo-toolbar.foovideo-youtube {
+
+  box-shadow: 8px 0 0 #cc181e inset, 0 2px 3px rgba(0,0,0,0.06);
+
+}
+
+.foovideo-toolbar.foovideo-vimeo {
+
+  box-shadow: 8px 0 0 #4bf inset, 0 2px 3px rgba(0,0,0,0.06);
+
+}
+
+.foovideo-result {
+
+  box-sizing: border-box;
+
+  height: 106px;
+
+  margin: 16px 16px 16px 145px;
+
+}
+
+.foovideo-result.foovideo-vimeo {
+
+  clear: both;
+
+  box-sizing: border-box;
+
+  margin: 16px 16px 16px 230px;
+
+}
+
+
+
+.foovideo-results {
+
+  bottom: 0;
+
+  overflow: auto;
+
+  position: absolute;
+
+  top: 50px;
+
+  width: 100%;
+
+}
+
+
+
+.foovideo-thumbnail.attachment {
+
+  float: left;
+
+  height: 90px;
+
+  margin-left: -120px;
+
+  width: 120px;
+
+}
+
+.foovideo-vimeo .foovideo-details {
+
+  margin-left: 77px;
+
+}
+
+.foovideo-vimeo .foovideo-playlist .foovideo-details {
+
+  margin-left: 0;
+
+}
+
+.foovideo-vimeo .foovideo-thumbnail.attachment.selected.playlist {
+
+  box-sizing: content-box;
+
+  height: 75px;
+
+  margin-left: -95px;
+
+  width: 75px;
+
+}
+
+.foovideo-details > h4 {
+
+  margin: 0;
+
+  padding: 6px 12px 0;
+
+}
+
+.foovideo-details h4 a,
+
+.foovideo-meta a {
+
+  text-decoration: none;
+
+}
+
+.foovideo-details > h4 {
+
+  font-size: 1.5em;
+
+}
+
+.foovideo-meta {
+
+  font-size: 10px;
+
+  padding: 0 12px;
+
+}
+
+.foovideo-vimeo .foovideo-meta {
+
+  font-size: 12px;
+
+}
+
+.foovideo-vimeo .foovideo-description {
+
+  font-size: 14px;
+
+}
+
+.foovideo-description{
+
+  padding: 0 12px;
+
+}
+
+.foovideo-thumbnail.attachment.playlist,
+
+.foovideo-thumbnail.attachment.selected {
+
+  width: 136px;
+
+  height: 106px;
+
+  margin-left: -135px;
+
+  width: auto;
+
+}
+
+.foovideo-thumbnail.attachment.playlist > img,
+
+.foovideo-thumbnail.attachment.selected > img {
+
+  height: 90px;
+
+  width: 120px;
+
+}
+
+.foovideo-thumbnail.attachment.playlist{
+
+  cursor: default;
+
+}
+
+.foovideo-vimeo .foovideo-result.foovideo-playlist {
+
+  margin-left: 110px;
+
+}
+
+.foovideo-vimeo .foovideo-thumbnail.attachment.selected {
+
+  display: block;
+
+  height: auto;
+
+  margin-left: -215px;
+
+  width: 300px;
+
+}
+
+.foovideo-vimeo .foovideo-thumbnail.attachment.selected > img {
+
+  float: left;
+
+  height: auto;
+
+  width: 100%;
+
+}
+
+.foovideo-vimeo .foovideo-thumbnail.attachment.selected.playlist > img {
+
+  float: none;
+
+  width: 75px;
+
+}
+
+.foovideo-loadmore.button {
+
+  margin: 0 17px 30px;
+
+}
+
+
+
+.foovideo-import-progress {
+
+  background: #c1c1c1 none repeat scroll 0 0;
+
+  display: block;
+
+  margin: 3px 12px -3px;
+
+}
+
+.foovideo-import-progress-bar {
+
+  background: #666 none repeat scroll 0 0;
+
+  display: block;
+
+  height: 2px;
+
+  transition: width 100ms ease 0s;
+
+}

@@ -1,0 +1,1 @@
+<p class="alert notice"><?php esc_html_e('Apologies, but no results were found for the requested page.', 'tosca'); ?></p>

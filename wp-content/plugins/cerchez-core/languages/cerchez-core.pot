@@ -1,0 +1,1595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cerchez Core v1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-26 13:47+0200\n"
+"PO-Revision-Date: 2015-10-26 13:47+0200\n"
+"Last-Translator: Liviu Cerchez\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:24
+#: ../utils/importer/cerchez-importer.php:30
+msgid "Import Demo Data"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:35
+msgid ""
+"Before you begin, make sure all the required/recommended plugins are "
+"activated."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:36
+msgid ""
+"Importing the demo data is the easiest way to setup your theme and quickly "
+"make it look like the preview (instead of creating content from scratch). "
+"There are a couple of things you should know about this process:"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:38
+msgid "No personal WordPress settings will be modified;"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:39
+msgid ""
+"No existing posts, pages, categories, tags, images, custom post types will "
+"be deleted or modified;"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:40
+msgid ""
+"The import option will only be available once, so wait until it properly "
+"finishes - it can take a couple of minutes, so please be patient."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:45
+msgid "Please select your prefered demo version:"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:141
+msgid "Error on import."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:144
+#: ../utils/importer/wordpress-importer.php:96
+#: ../utils/importer/wordpress-importer.php:104
+#: ../utils/importer/wordpress-importer.php:153
+#: ../utils/importer/wordpress-importer.php:157
+#: ../utils/importer/wordpress-importer.php:166
+msgid "Sorry, there has been an error."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:145
+msgid ""
+"The XML file containing the dummy content is not available or could not be "
+"read."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:147
+msgid "Importing post data..."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:157
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:166
+msgid ""
+"Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:183
+msgid "Theme Options imported successfully."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:204
+msgid "Widget import file could not be found."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:214
+msgid "Widget import data could not be read."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:236
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:251
+msgid "Site does not support widget"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:263
+msgid "Widget already exists"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:297
+msgid "Imported"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:300
+msgid "Imported to Inactive"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:305
+msgid "No Title"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/cerchez-importer.php:313
+msgid "Widgets imported successfully."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/parsers.php:31 ../utils/importer/parsers.php:57
+#: ../utils/importer/parsers.php:64
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/parsers.php:32
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/parsers.php:68 ../utils/importer/parsers.php:72
+#: ../utils/importer/parsers.php:259 ../utils/importer/parsers.php:444
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:97
+msgid "The file does not exist, please try again."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:138
+msgid "All done."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:138
+msgid "Have fun!"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:158
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:174
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:250
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:294
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:328
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:367
+#: ../utils/importer/wordpress-importer.php:492
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:385
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:407
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:606
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:613
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:667
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:679
+msgid "Invalid file type"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:710
+msgid "Remote server did not respond"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:715
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:722
+msgid "Remote file is incorrect size"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:727
+msgid "Zero size file downloaded"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/importer/wordpress-importer.php:733
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-preview/post-preview.php:12
+#: ../utils/post-preview/post-preview.php:17
+msgid "Quick Preview"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-preview/post-preview.php:36
+msgid "Quick "
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-preview/post-preview.php:36
+msgid "Preview"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-types.php:7
+msgid "Projects"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-types.php:8
+msgid "Project"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-types.php:9
+msgid "Add New Project"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-types.php:10
+msgid "Edit Project"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/post-types.php:17
+msgid "project"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/field.php:100
+msgid "+"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/field.php:107
+msgid "&#8211;"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:12
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:13
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:40
+msgid "Error: Cannot delete file"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:44
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:45
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:93
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/file.php:94
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image-advanced.php:14
+msgid "Select Images"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image-advanced.php:37
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image-advanced.php:57
+#: ../utils/rwmb/inc/fields/image.php:82
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image-advanced.php:58
+#: ../utils/rwmb/inc/fields/image.php:83
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image.php:36
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/fields/image.php:37
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/rwmb/inc/meta-box.php:128
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:7
+#: ../utils/shortcodes/functions/interface-options.php:110
+#: ../utils/shortcodes/functions/interface-options.php:484
+msgid "Type"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:10
+msgid "Information"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:11
+msgid "Success"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:12
+msgid "Notice"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:13
+msgid "Error"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:17
+#: ../utils/shortcodes/functions/interface-options.php:82
+#: ../utils/shortcodes/functions/interface-options.php:494
+#: ../utils/shortcodes/functions/interface-options.php:525
+#: ../utils/shortcodes/functions/interface-options.php:658
+#: ../utils/shortcodes/functions/interface-options.php:677
+msgid "Content"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:26
+#: ../utils/shortcodes/functions/interface-options.php:101
+msgid "Text"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:30
+#: ../utils/shortcodes/functions/interface-options.php:133
+#: ../utils/shortcodes/functions/interface-options.php:426
+msgid "URL"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:34
+#: ../utils/shortcodes/functions/interface-options.php:137
+msgid "Target"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:37
+#: ../utils/shortcodes/functions/interface-options.php:140
+#: ../utils/shortcodes/functions/interface-options.php:602
+#: ../utils/shortcodes/functions/interface-options.php:630
+msgid "Open in same tab/window"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:38
+#: ../utils/shortcodes/functions/interface-options.php:141
+#: ../utils/shortcodes/functions/interface-options.php:603
+#: ../utils/shortcodes/functions/interface-options.php:631
+msgid "Open in new tab/window"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:42
+msgid "Size"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:45
+#: ../utils/widgets.php:220
+msgid "Small"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:46
+#: ../utils/widgets.php:221
+msgid "Normal"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:47
+#: ../utils/widgets.php:222
+msgid "Big"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:51
+msgid "Color"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:54
+msgid "Base Color"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:55
+msgid "Light Color"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:56
+msgid "Grey Color"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:57
+msgid "Dark Color"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:61
+msgid "ID Attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:65
+#: ../utils/shortcodes/functions/interface-options.php:150
+msgid "Class Attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:69
+msgid "Rel Attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:78
+#: ../utils/shortcodes/functions/interface-options.php:97
+#: ../utils/shortcodes/functions/interface-options.php:170
+#: ../utils/shortcodes/functions/interface-options.php:190
+#: ../utils/shortcodes/functions/interface-options.php:453
+#: ../utils/shortcodes/functions/interface-options.php:507
+#: ../utils/shortcodes/functions/interface-options.php:654
+#: ../utils/shortcodes/functions/interface-options.php:673
+#: ../utils/widgets.php:95 ../utils/widgets.php:206
+msgid "Title"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:92
+#: ../utils/shortcodes/functions/interface-options.php:586
+#: ../utils/shortcodes/functions/interface-options.php:614
+msgid "Image"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:113
+msgid "Dribbble"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:114
+msgid "Email"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:115
+msgid "Envato"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:116
+msgid "Facebook"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:117
+msgid "Flickr"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:118
+msgid "GitHub"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:119
+msgid "Google+"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:120
+msgid "Instagram"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:121
+msgid "LinkedIn"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:122
+msgid "Pinterest"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:123
+msgid "Skype"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:124
+msgid "SoundCloud"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:125
+msgid "Tumblr"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:126
+msgid "Twitter"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:127
+msgid "Vimeo"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:128
+msgid "YouTube"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:146
+msgid "Title Attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:159
+msgid "Collapse"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:160
+msgid "Determines if the accordion has only one item visible at a time."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:167
+#: ../utils/shortcodes/functions/tinymce-button.php:59
+msgid "Accordion Item"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:174
+#: ../utils/shortcodes/functions/interface-options.php:194
+msgid "Text Content"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:178
+#: ../utils/shortcodes/functions/interface-options.php:198
+msgid "Opened"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:179
+#: ../utils/shortcodes/functions/interface-options.php:199
+msgid "Determines if the item is opened in initial state."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:208
+msgid "MP3"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:212
+msgid "OGG"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:216
+msgid "WAV"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:220
+msgid "Loop"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:221
+msgid "Determine if the audio player will loop the file."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:225
+msgid "Autoplay"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:226
+msgid ""
+"Determine if the audio player will autoplay the file &mdash; iOS devices "
+"will require mandatory user interaction to play a file."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:230
+msgid "Preload"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:231
+msgid "Determine if the audio player preloads the file."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:235
+#: ../utils/shortcodes/functions/interface-options.php:576
+msgid "Class"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:236
+msgid "Add extra class values to the container element."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:245
+#: ../utils/shortcodes/functions/interface-options.php:378
+msgid "Category"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:246
+msgid "Restrict portfolio items belonging to a specific category."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:250
+#: ../utils/shortcodes/functions/interface-options.php:383
+msgid "Tag"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:251
+msgid "Restrict portfolio items having a specific tag."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:255
+#: ../utils/shortcodes/functions/interface-options.php:388
+msgid "Limit"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:256
+msgid ""
+"Number of portfolio items to show in total. Note that some numbers are "
+"hidden because they can't form a perfect row in the grid system."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:259
+#: ../utils/shortcodes/functions/interface-options.php:392
+msgid "All posts"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:283
+msgid "Per Row"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:284
+msgid ""
+"Number of portfolio items to show on a single line (will be discarded if a "
+"showcase is checked)."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:297
+msgid "Showcase"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:298
+msgid "Determine if this is a showcase type of gallery."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:302
+msgid "Filters"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:303
+msgid ""
+"Determine if filters are available for the gallery &mdash; this can be used "
+"in combination with the category attribute because filters are basically sub-"
+"categories of a specific category."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:307
+#: ../utils/shortcodes/functions/interface-options.php:409
+msgid "Image width"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:308
+msgid "Image width for the featured image of the portfolio item."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:313
+#: ../utils/shortcodes/functions/interface-options.php:415
+msgid "Image height"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:314
+msgid "Image height for the featured image of the portfolio item."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:319
+#: ../utils/shortcodes/functions/interface-options.php:431
+msgid "Image effect"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:320
+#: ../utils/shortcodes/functions/interface-options.php:432
+msgid "Determine the type of thumb animation when item is hovered."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:323
+#: ../utils/shortcodes/functions/interface-options.php:435
+msgid "Fade"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:324
+#: ../utils/shortcodes/functions/interface-options.php:436
+msgid "Directional"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:329
+#: ../utils/shortcodes/functions/interface-options.php:441
+msgid "Image icon"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:330
+#: ../utils/shortcodes/functions/interface-options.php:442
+msgid "Determine the type of icon displayed when item is hovered."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:333
+#: ../utils/shortcodes/functions/interface-options.php:445
+msgid "Enlarge"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:334
+#: ../utils/shortcodes/functions/interface-options.php:446
+msgid "Link"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:335
+#: ../utils/shortcodes/functions/interface-options.php:447
+msgid "Play"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:336
+#: ../utils/shortcodes/functions/interface-options.php:448
+msgid "Right Arrow"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:341
+#: ../utils/shortcodes/functions/interface-options.php:463
+msgid "Title inside"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:342
+#: ../utils/shortcodes/functions/interface-options.php:464
+msgid ""
+"Determine if the title and subtitle are displayed inside the thumbnail or "
+"outside."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:346
+msgid "Subtitles"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:347
+msgid ""
+"Determine if subtitles are retrieved for each item; it can display the "
+"categories or the tags each posts belongs to."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:350
+msgid "Hide subtitles"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:351
+msgid "Display categories"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:352
+msgid "Display tags"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:356
+msgid "Lightbox gallery"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:357
+msgid "Determine if the lightboxes are all part of a specific gallery."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:362
+msgid "Lightbox popup"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:363
+msgid ""
+"Determine if the lighboxes get opened into a popup or get redirected to the "
+"their url."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:368
+msgid "Filter string for \"all\" category"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:369
+msgid "String used for the All category in the filters (Default: All)."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:379
+msgid "Restrict posts belonging to a specific category."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:384
+msgid "Restrict posts having a specific tag."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:389
+msgid "Number of posts to show in total."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:410
+msgid "Image width for the featured image of the post."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:416
+msgid "Image height for the featured image of the post."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:427
+msgid ""
+"Link for the big version of the image, video from YouTube, Vimeo, Metacafe, "
+"DailyMotion, TwitVid, GMap."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:454
+msgid "Set a title to be displayed along the lightbox."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:458
+msgid "Subtitle"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:459
+msgid "Set a tag to be displayed along the title"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:468
+msgid "Gallery"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:469
+msgid "Determine if the lightboxe is part of a specific gallery."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:473
+msgid "Popup"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:474
+msgid ""
+"Determine if the lighboxe gets opened into a popup or gets redirected to the "
+"specified url."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:485
+msgid "Determine the type used for interpreting the content box."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:488
+msgid "Address"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:489
+#: ../utils/shortcodes/functions/interface-options.php:690
+msgid "Embed code"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:504
+msgid "Pricing Column"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:511
+msgid "Cost"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:515
+msgid "Cost After"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:517
+#: ../utils/shortcodes/shortcode-list.php:197
+msgid "per month"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:520
+msgid "Highlight "
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:521
+msgid "Determine if it's the higlighted pricing column."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:526
+msgid "Set the HTML that will be placed inside the pricing column."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:541
+msgid "Autoslide"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:542
+msgid "Determines if the slider autoslides."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:546
+msgid "Autoslide Timer"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:547
+msgid "Time (in miliseconds) between autoslides."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:552
+msgid "Autoslide Timer Transition"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:553
+msgid "Determine the speed (in miliseconds) of the slide animation."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:558
+msgid "Control Arrows"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:559
+msgid "Determines if the slider next/prev arrow controls are visible."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:564
+msgid "Pagination"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:565
+msgid "Determines if the slider pagination is visible."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:569
+msgid "Aspect Ratio"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:570
+msgid ""
+"Set aspect ratio of the images displayed inside the slider (will also "
+"determine the height of the slider)."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:577
+msgid "Add extra class values to the slider container element."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:583
+msgid "Slide"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:591
+#: ../utils/shortcodes/functions/interface-options.php:619
+msgid "Caption"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:595
+#: ../utils/shortcodes/functions/interface-options.php:623
+msgid "Caption URL"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:599
+#: ../utils/shortcodes/functions/interface-options.php:627
+msgid "Caption URL Target"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:640
+msgid "ID"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:641
+msgid "Determine the method for naming the URL for each tab."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:644
+msgid "Auto generated number"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:645
+msgid "Name from title attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:651
+msgid "Tab"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:662
+#: ../utils/shortcodes/functions/interface-options.php:681
+msgid "Active"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:700
+msgid ""
+"Create custom layouts by arranging elements into grids (columns). A row is "
+"divided in a 12-column based grid system, where 6 means half the content "
+"area and 4 is one third."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:703
+msgid "No. of columns"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:708
+msgid "3 - one fourth"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:709
+msgid "4 - one third"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:711
+msgid "6 - one half"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:713
+msgid "8 - two thirds"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:717
+msgid "12 - full-width"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:721
+msgid "First"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:722
+msgid "Mark this if the grid column is the first in a row."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:726
+msgid "Last"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/interface-options.php:727
+msgid "Mark this if the grid column is the last in a row."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/localisation.php:4
+msgid "Insert shortcode"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:13
+msgid "Basic"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:17
+msgid "Alert"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:21
+msgid "Box"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:27
+msgid "Button"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:31
+msgid "Call-to-action"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:35
+msgid "Feature"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:39
+msgid "Highlight"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:45
+msgid "Social Link"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:51
+msgid "Interactive"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:55
+msgid "Accordions"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:63
+msgid "Latest Projects"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:67
+msgid "Latest News"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:71
+msgid "Pricing Table"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:75
+msgid "Slideshow"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:79
+msgid "Slideshow Item"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:83
+msgid "Tabs"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:87
+msgid "Tab Item"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:93
+msgid "Containers"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:97
+msgid "Audio Player"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:101
+msgid "Lightbox"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:105
+msgid "Map Container"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:109
+msgid "Video Container"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:115
+msgid "Layout"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:119
+msgid "Grid Column"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:123
+msgid "Divider"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/functions/tinymce-button.php:128
+msgid "Float clearing"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:21
+#, php-format
+msgid "Insert %s Shortcode"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:28
+msgid "Insert Shortcode"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:31
+msgid "Cancel"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:98
+#: ../utils/shortcodes/shortcode-generator.php:106
+msgid "Upload"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:98
+#: ../utils/shortcodes/shortcode-generator.php:106
+msgid "Remove"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:100
+msgid "Image Alt Attribute"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:111
+msgid "All Categories"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:128
+msgid "All Tags"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:153
+msgid "Item"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:155
+msgid "Are you sure you want to remove this item?"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-generator.php:163
+msgid "Add New "
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:535
+msgid "Prev"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:535
+msgid "Next"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:901
+msgid "All"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:1136
+msgid "% Comments"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:1138
+msgid "No Comments"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/shortcodes/shortcode-list.php:1140
+msgid "1 Comment"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:8
+msgid "Display your latest Flickr photostream."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:9
+msgid "Flickr Widget"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:53
+msgid "Could not fetch photos."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:90
+msgid "Photos from Flickr"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:99
+msgid "Flickr ID "
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:103
+msgid "Count"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:113
+msgid "Display your latest Dribbble shots."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:114
+msgid "Dribbble Widget"
+msgstr ""
+
+#: ../utils/widgets.php:137
+msgid "Could not fetch dribbbles."
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:173
+msgid "Error retrieving Dribbble shots"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:192
+msgid "Dribbble shots"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:210
+msgid "Player"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:214
+msgid "Number of shots to show"
+msgstr ""
+
+# @ cerchez-core
+#: ../utils/widgets.php:218
+msgid "Image size"
+msgstr ""

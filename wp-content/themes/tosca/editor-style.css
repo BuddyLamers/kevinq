@@ -1,0 +1,67 @@
+body { font-size: 15px; line-height: 1.625; font-family: Helvetica, Arial, sans-serif; font-weight: 300; color: #000; }
+
+
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote, pre, form, table, dl, dd, figure { margin-bottom: 15px; margin-top: 0; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+hr { margin-top: 15px; margin-bottom: 15px; height: 0; line-height: 1; border-left: 0; border-right: 0; border-bottom: 0; border-top: 1px solid #ddd; -moz-box-sizing: content-box; }
+
+img { max-width: 100%; height: auto; border: 0; vertical-align: middle; -ms-interpolation-mode: bicubic; }
+
+p:empty { margin-bottom: 0; }
+
+ul { list-style: square inside; margin-left: 0; padding: 0; }
+
+ol { list-style: decimal inside; margin-left: 0; padding: 0; }
+
+ul li, ol li { margin-left: 20px; }
+
+li ul, li ol { margin: 0; }
+
+strong { font-weight: 700; }
+
+
+
+a, a:visited { font-weight: 600; color: #000; }
+
+
+
+blockquote, pre { margin: 0; padding: 10px; }
+
+blockquote { quotes: none; text-indent: 30px; position: relative; }
+
+blockquote p:first-child { margin-top: 0; }
+
+blockquote p:last-child { margin-bottom: 0; }
+
+blockquote:before { content: "\201C"; color: #ccc; font-style: normal; font-size: 60px; font-family: 'Arial'; line-height: 1; position: absolute; top: 9px; left: -19px; }
+
+blockquote cite { display: block; margin-top: 5px; font-size: 90%; font-style: italic; text-align: right; }
+
+pre, code { font-family: Courier, "Courier New", monospace; white-space: pre-wrap; white-space: -moz-pre-wrap; white-space: -o-pre-wrap;  word-wrap: break-word; }
+
+code { padding: 2px 3px; background-color: #f9f9f9; }
+
+pre { white-space: pre; white-space: pre-wrap; }
+
+sub, sup { position: relative; line-height: 0; font-size: 0.7em; }
+
+sup { top: -.4em; }
+
+sub { bottom: -.25em; }
+
+
+
+.mce-content-body table { width: 100%; }
+
+.mce-content-body table caption { padding: 4px; font-weight: 400; border: 0; text-align: center; border: 1px solid #ddd; }
+
+.mce-content-body table td, .mce-content-body table th { padding: 6px 4px; border: 1px solid #ddd; }
+
+.mce-content-body table thead th { text-align: left; vertical-align: bottom; }
+
+.mce-content-body table tbody th, .mce-content-body table tbody td { padding: 4px; border-bottom: 1px solid #ddd; }
+
+.mce-content-body table tbody + tbody { border-top: 1px solid #ddd; }

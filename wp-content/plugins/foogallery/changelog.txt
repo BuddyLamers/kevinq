@@ -1,0 +1,7 @@
+FooGallery Changelog
+
+====================
+
+
+
+See changelog in readme.txt

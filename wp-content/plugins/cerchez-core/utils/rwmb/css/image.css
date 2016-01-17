@@ -1,0 +1,71 @@
+
+.rwmb-images {
+	overflow: hidden;
+}
+.rwmb-images li {
+	margin: 0 10px 10px 0;
+	float: left;
+	width: 150px;
+	height: 150px;
+	padding: 3px;
+	border: 1px solid #eee;
+	background: #fff;
+	text-align: center;
+	cursor: move;
+	position: relative;
+	-moz-transition: width 0.2s, opacity 0.25s;
+	-webkit-transition: width 0.2s, opacity 0.25s;
+	transition: width 0.2s, opacity 0.25s;
+}
+.rwmb-images li.ui-sortable-helper {
+	opacity: 0.9;
+}
+.rwmb-images li.ui-state-highlight {
+	border-style: dotted;
+	border-color: #c7c189;
+	background-color: #fffbdd;
+}
+.rwmb-images img {
+	width: 150px;
+	height: 150px;
+}
+.rwmb-images li a {
+	position: absolute;
+	top: 0;
+	background-color: #fff;
+	font-weight: 400;
+	line-height: 25px;
+	text-decoration: none;
+	display: inline-block;
+}
+.no-touch .rwmb-images li a {
+	display: none;
+}
+.no-touch .rwmb-images li:hover a {
+	display: inline-block;
+}
+.rwmb-images li.ui-sortable-helper:hover a, .rwmb-images li.ui-sortable-helper:hover a {
+	display: none;
+}
+.rwmb-images li a.rwmb-edit-file {
+	left: 0;
+	padding: 0 6px;
+	font-size: 13px;
+}
+
+.rwmb-images li a.rwmb-delete-file {
+	right: 0;
+	color: #a00;
+	font-size: 21px;
+	width: 25px;
+}
+.rwmb-images li a.rwmb-delete-file:hover {
+	color: #f22;
+}
+.rwmb-images li.removed {
+	width: 0;
+	margin: 0;
+	-webkit-opacity: 0;
+	-moz-opacity: 0;
+	opacity: 0;
+}

@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_tosca">
+			<key name="footer_text" />
+		</key>
+	</admin-texts>  
+	<custom-types>
+		<custom-type translate="1">cerchez-project</custom-type>
+	</custom-types>
+</wpml-config>

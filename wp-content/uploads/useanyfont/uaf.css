@@ -1,0 +1,31 @@
+			@font-face {
+
+				font-family: 'telegrafico';
+
+				font-style: normal;
+
+				src: url('//kevinqu.com/wp-content/uploads/useanyfont/151226083217telegrafico.eot');
+
+				src: local('telegrafico'), url('//kevinqu.com/wp-content/uploads/useanyfont/151226083217telegrafico.eot') format('embedded-opentype'), url('//kevinqu.com/wp-content/uploads/useanyfont/151226083217telegrafico.woff') format('woff');
+
+			}
+
+						a{
+
+					font-family: 'telegrafico' !important;
+
+				}
+
+						h3{
+
+					font-family: 'telegrafico' !important;
+
+				}
+
+						h2{
+
+					font-family: 'telegrafico' !important;
+
+				}
+
+		
